@@ -20,6 +20,7 @@ namespace SimpleDiscordBot.Commands
     /// An abstract bottom command.
     /// </summary>
     ///
+    /// <seealso cref="Velentr.Miscellaneous.CommandParsing.AbstractCommand"/>
     /// <seealso cref="AbstractCommand"/>
     public abstract class AbstractBotCommand : AbstractCommand
     {

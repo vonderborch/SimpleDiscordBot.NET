@@ -17,7 +17,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\SimpleDiscordBot\SimpleDiscordBot.csproj" />
+    <ProjectReference Include="..\SimpleDiscordBot.NET\SimpleDiscordBot.NET.csproj" />
   </ItemGroup>
 
 </Project>

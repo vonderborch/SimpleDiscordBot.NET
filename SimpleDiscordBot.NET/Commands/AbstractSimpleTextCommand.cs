@@ -18,6 +18,7 @@ namespace SimpleDiscordBot.Commands
     /// A simple text command.
     /// </summary>
     ///
+    /// <seealso cref="SimpleDiscordBot.Commands.AbstractBotCommand"/>
     /// <seealso cref="AbstractBotCommand"/>
     public class SimpleTextCommand : AbstractBotCommand
     {

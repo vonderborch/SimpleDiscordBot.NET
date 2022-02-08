@@ -19,6 +19,7 @@ namespace SimpleDiscordBot.Commands
     /// A bottom help.
     /// </summary>
     ///
+    /// <seealso cref="Velentr.Miscellaneous.CommandParsing.DefaultHelpCommand"/>
     /// <seealso cref="DefaultHelpCommand"/>
     public class BotHelp : DefaultHelpCommand
     {
