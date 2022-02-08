@@ -5,7 +5,7 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Authors>Christian Webber</Authors>
     <Company>Christian Webber</Company>
-    <RepositoryUrl>https://github.com/vonderborch/SimpleDiscordBot</RepositoryUrl>
+    <RepositoryUrl>https://github.com/vonderborch/SimpleDiscordBot.NET</RepositoryUrl>
     <PackageTags></PackageTags>
     <Description>A simple framework for rapidly creating simple command-driven Discord bots.</Description>
     <Version>1.0.0</Version>
@@ -13,7 +13,7 @@
     <AssemblyVersion>1.0.0</AssemblyVersion>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageId>SimpleDiscordBot.NET</PackageId>
-    <PackageProjectUrl>https://github.com/vonderborch/SimpleDiscordBot</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/vonderborch/SimpleDiscordBot.NET</PackageProjectUrl>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
